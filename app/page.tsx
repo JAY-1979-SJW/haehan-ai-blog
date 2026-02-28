@@ -116,7 +116,7 @@ export default function BlogListPage() {
             <span>사업자등록번호: 372-34-00685</span>
             <span>이메일: info@haehan-ai.kr</span>
           </div>
-          <p className="text-xs" style={{ color: `${MUTED}50` }}>© 2025 해한AI엔지니어링. All rights reserved.</p>
+          <p className="text-xs" style={{ color: `${MUTED}50` }}>© 2026 해한AI엔지니어링. All rights reserved.</p>
         </div>
       </footer>
       <div className="h-[3px] w-full" style={{ backgroundColor: ORANGE }} />

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 48" width="320" height="48">
+  <defs>
+    <radialGradient id="dotGlowH" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#F47920" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- 해한 -->
+  <text x="0" y="36" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="34" font-weight="800" fill="white">해한</text>
+
+  <!-- Ai -->
+  <text x="72" y="36" font-family="'Arial', 'Helvetica', sans-serif" font-size="38" font-weight="700" fill="#F47920">A</text>
+  <text x="98" y="36" font-family="'Arial', 'Helvetica', sans-serif" font-size="38" font-weight="400" fill="#F47920" font-style="italic">i</text>
+
+  <!-- i dot glow -->
+  <circle cx="103" cy="8" r="5" fill="#F47920" opacity="0.15"/>
+  <circle cx="103" cy="8" r="3" fill="#FFB347" opacity="0.4"/>
+  <circle cx="103" cy="8" r="1.8" fill="#FFD700" opacity="0.9"/>
+
+  <!-- ENGINEERING -->
+  <text x="120" y="36" font-family="'Arial', 'Helvetica', sans-serif" font-size="13" font-weight="300" fill="#5BA4D9" letter-spacing="5" opacity="0.85">ENGINEERING</text>
+</svg>

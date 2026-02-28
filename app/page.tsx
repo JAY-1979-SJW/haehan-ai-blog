@@ -30,10 +30,9 @@ export default function BlogListPage() {
         style={{ backgroundColor: `${DARK}f5`, borderColor: BORDER, backdropFilter: "blur(12px)" }}
       >
         <div className="max-w-4xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
-          <a href="https://haehan-ai.kr" className="flex items-baseline gap-1 select-none">
-            <span className="text-lg font-black text-white">해한</span>
-            <span className="text-lg font-black" style={{ color: ORANGE }}>Ai</span>
-            <span className="text-xs font-medium ml-1 hidden sm:inline" style={{ color: MUTED }}>블로그</span>
+          <a href="https://haehan-ai.kr" className="flex items-center gap-2 select-none">
+            <img src="/logo-header.svg" alt="해한Ai Engineering" className="h-7" />
+            <span className="text-xs font-medium hidden sm:inline" style={{ color: MUTED }}>블로그</span>
           </a>
           <a href="https://haehan-ai.kr" className="text-sm transition-colors hover:text-white" style={{ color: BLUE }}>
             ← 홈으로

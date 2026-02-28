@@ -31,7 +31,7 @@ export default function BlogListPage() {
       >
         <div className="max-w-4xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
           <a href="https://haehan-ai.kr" className="flex items-center gap-2 select-none">
-            <img src="/logo-header.svg" alt="해한Ai Engineering" className="h-7" />
+            <img src="/logo_dark_1x.png" alt="해한Ai Engineering" className="h-7" />
             <span className="text-xs font-medium hidden sm:inline" style={{ color: MUTED }}>블로그</span>
           </a>
           <a href="https://haehan-ai.kr" className="text-sm transition-colors hover:text-white" style={{ color: BLUE }}>
